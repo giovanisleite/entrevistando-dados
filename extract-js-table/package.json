@@ -1,0 +1,14 @@
+{
+  "name": "extract-js-table",
+  "version": "0.0.1",
+  "description": "Toy script to extract a table loaded with javascript into a dynamic webpage",
+  "main": "index.js",
+  "author": "Giovani",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "node-table-to-csv": "^0.1.0",
+    "puppeteer": "^1.19.0"
+  }
+}
